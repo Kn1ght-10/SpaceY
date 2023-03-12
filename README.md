@@ -5,16 +5,17 @@ SpaceY is a revolutionary company who has disrupt the space industry by offering
 
 # Table of Contents
 
-# Data Collection with API
-# Data Collection with Web Scraping
-# Data Wrangling
-# EDA with SQL
-# EDA with Visulaization Lab
-# Interactive Visual Analytics with Folium
-# Dashboard Application (Code)
-# Predictive Analysis - Machine Learning Lab
-# Final Presentation (Slide)
+Data Collection with API<br>
+Data Collection with Web Scraping<br>
+Data Wrangling<br>
+EDA with SQL<br>
+EDA with Visulaization Lab<br>
+Interactive Visual Analytics with Folium<br>
+Dashboard Application (Code)<br>
+Predictive Analysis - Machine Learning Lab<br>
+Final Presentation (Slide)<br>
+
 # Acknowledgements
 
-© Copyright IBM Corporation 1994, 2023.
+© Copyright IBM Corporation 1994, 2023.<br>
 © Pranav Tiwari 2023
